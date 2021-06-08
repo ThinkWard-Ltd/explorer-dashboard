@@ -1,6 +1,6 @@
-# harmony-dashboard
+# Explorer Dashboard
 
-The dashboard for harmony blockchain displaying interesting metrics.
+The dashboard based on harmony blockchain displaying interesting metrics.
 
 ## Build Setup
 
